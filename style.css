@@ -1,0 +1,24 @@
+.card{
+  margin: 50px;
+}
+.corpo{
+  background-color: rgb(217, 227, 230);
+}
+.col-md-4{
+  margin: 20px;
+}
+  .ferrari{
+    background-color: rgb(243, 229, 229);
+  }
+  .lamborghini{
+    background-color: rgb(230, 226, 208);
+  }
+  .porsche{
+    background-color: rgb(228, 226, 226);
+  }
+  .mclaren{
+    background-color: rgb(250, 236, 210);
+  }
+  .koenigsegg{
+    background-color: rgb(10, 10, 10);
+  }
